@@ -1,5 +1,5 @@
 ### IntelliJ IDEA ###
-out/
+prime or not/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
